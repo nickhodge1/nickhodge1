@@ -4,7 +4,8 @@
 
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
-<h2> Certifications</h2>
+
+<h2>:page_facing_up: Certifications</h2>
 
 
 <h2>📺 Popular YouTube Videos</h2>
