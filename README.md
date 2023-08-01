@@ -5,6 +5,11 @@
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
+<h2>:school: Education</h2>
+
+- Bachelor's Degree (Information Technology) Concentration in Cybersecurity - Southern New Hampshire University
+
+
 <h2>:page_facing_up: Certifications</h2>
 
 - CompTIA A+ Certification
