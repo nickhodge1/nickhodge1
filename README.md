@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Disk Wipe/Sanitization](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Disk Wipe/Sanitization](https://github.com/nickhodge1/diskwipe_sanitization)
 
 
 <h2>:school: Education</h2>
