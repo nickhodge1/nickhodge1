@@ -1,5 +1,10 @@
 <h1>Hi, I'm Nick! </h1>
 
+<h2> Professional Statement:</h2>
+
+I am fascinated by cybersecurity and welcome the challenges presented by this field. I feel my extensive history in information technology, which ranges from helpdesk to enterprise-level assistance, would be very beneficial to a security team. I have a thorough understanding of IT infrastructure and the significance of safeguarding it from dangers. I value the human element of cybersecurity, emphasizing the defense of people, their identities, and their data from threats. I've added to my IT knowledge by taking additional cybersecurity courses and honing my threat analysis, risk management, and network security skills. I want to be a part of a cybersecurity team and am excited to use my IT expertise, my newly acquired cybersecurity skills, and my dedication to lifelong learning in this ever-evolving industry.
+
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Disk Wipe/Sanitization](https://github.com/nickhodge1/diskwipe_sanitization)
