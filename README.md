@@ -29,5 +29,3 @@ I am fascinated by cybersecurity and welcome the challenges presented by this fi
 [<img align="left" alt="NickHodge | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/xxxxx
-
-
